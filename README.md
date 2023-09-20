@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reallyarshad
-- 👀 I’m interested in Machine learning and llm models
-- 🌱 I’m currently learning deeplearing and llm
-- 💞️ I’m looking to collaborate on llm projects.
+- 👀 I’m interested in large language models.
+- 🌱 I’m currently learning deep learing and llm.
+- 💞️ I’m looking to collaborate on ML and data science projects.
 
 
 <!---
